@@ -1,0 +1,15 @@
+.App.light {
+    background-color: white;
+    color: black;
+  }
+  
+  .App.dark {
+    background-color: black;
+    color: white;
+  }
+
+.navbar{
+  display: flex;
+  justify-content: right;
+
+}
